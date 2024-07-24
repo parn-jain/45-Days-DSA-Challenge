@@ -20,6 +20,6 @@ int index = 0;
         nums[index] = temp;
         i++;
     }
-
+    
     };
 };
